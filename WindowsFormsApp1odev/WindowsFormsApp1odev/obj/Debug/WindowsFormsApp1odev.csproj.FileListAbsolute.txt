@@ -1,0 +1,16 @@
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\bin\Debug\WindowsFormsApp1odev.exe.config
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\bin\Debug\WindowsFormsApp1odev.exe
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\bin\Debug\WindowsFormsApp1odev.pdb
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\bin\Debug\Microsoft.Data.Tools.Components.dll
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.csproj.AssemblyReference.cache
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.Form1.resources
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.Form2.resources
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.Form3.resources
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.Form4.resources
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.Form5.resources
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.Properties.Resources.resources
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.csproj.GenerateResource.cache
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.csproj.CoreCompileInputs.cache
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.csproj.CopyComplete
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.exe
+F:\2018 ders notları\Güncel Seminer Ödev1\WindowsFormsApp1odev\WindowsFormsApp1odev\obj\Debug\WindowsFormsApp1odev.pdb
